@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nahian Niger Siddiqua
-#### Currently an undergraduate student
+#### I am currently an undergraduate student
 
 Skills: JS/ HTML/ CSS/ PYTHON
 
