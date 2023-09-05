@@ -2,15 +2,15 @@
 ### A recent CSE graduate from East-West University.
 
 #### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
-   Performance Testing Tool: JMeter
-   API Testing Tool: Postman
-   Agile Methodology and Project Management Tool: Jira / Clickup
-   Concepts: SDLC, STLC, OOP
+   - Performance Testing Tool: JMeter
+   - API Testing Tool: Postman
+   - Agile Methodology and Project Management Tool: Jira / Clickup
+   - Concepts: SDLC, STLC, OOP
 
 #### Technical Skills ####
-  Programming Language: C++ / C / Java / HTML / CSS / PYTHON 
-  Database: MySQL / MongoDB
-  Frameworks: Bootstrap / Django / Flask
+  - Programming Language: C++ / C / Java / HTML / CSS / PYTHON 
+  - Database: MySQL / MongoDB
+  - Frameworks: Bootstrap / Django / Flask
 
 - 🌱 I’m currently learning Software Testing 
 - 📫 How to reach me:
