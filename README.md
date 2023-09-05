@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nahian Niger Siddiqua
-#### I am currently an undergraduate student
+### Hey there 👋, I'm Nahian Niger Siddiqua. 
+### A recent CSE graduate from East-West University.
 
 #### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
    Performance Testing Tool: JMeter
