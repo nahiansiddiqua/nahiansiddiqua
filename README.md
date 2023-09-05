@@ -12,8 +12,8 @@
   - Database: MySQL / MongoDB
   - Frameworks: Bootstrap / Django / Flask
 
--🌱 I’m currently learning Software Testing 
--📫 How to reach me:
+- 🌱 I’m currently learning Software Testing
+- 📫 How to reach me:
   ### Email: nahiansiddiqua301@gmail.com
   ### LinkedIn: www.linkedin.com/in/nahiansiddiqua
   
