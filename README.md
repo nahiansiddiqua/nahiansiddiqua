@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Nahian Niger Siddiqua. 
-### A recent CSE graduate from East-West University.
+### Currently working for a software company as a SQA engineer
 
 #### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
    - Performance Testing Tool: JMeter
