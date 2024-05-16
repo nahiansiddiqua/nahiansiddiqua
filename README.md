@@ -8,7 +8,7 @@
    - Concepts: SDLC, STLC, OOP
 
 #### Technical Skills ####
-  - Programming Language: C++ / C / Java / HTML / CSS / PYTHON 
+  - Language: Java / PYTHON/ HTML / CSS  
   - Database: MySQL / MongoDB
   - Frameworks: Bootstrap / Django / Flask
 
