@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Nahian Niger Siddiqua. 
-### Currently working for a software company as a SQA engineer
+### A SQA engineer, have hands-on experience in various testing methodologies.
 
 #### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
    - Performance Testing Tool: JMeter
@@ -20,7 +20,7 @@
             - 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahiansiddiqua)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/GitHub.svg' alt='github' height='40'>](https://github.com/nahiansiddiqua)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahiansiddiqua&show_icons=true)  
 
