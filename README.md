@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Nahian Niger Siddiqua. 
-### A SQA engineer, have hands-on experience in various testing methodologies.
+### I have hands-on experience in various testing methodologies and actively working on developing my skills in this area.
 
 #### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
    - Performance Testing Tool: JMeter
@@ -12,7 +12,7 @@
   - Database: MySQL / MongoDB
   - Frameworks: Bootstrap / Django / Flask
 
-### 🌱 I’m currently learning Software Testing
+### 🌱 I’m currently learning automation testing.
 ### 📫 How to reach me:
   ### Email: nahiansiddiqua301@gmail.com
   ### LinkedIn: www.linkedin.com/in/nahiansiddiqua
