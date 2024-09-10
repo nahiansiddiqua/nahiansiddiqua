@@ -1,16 +1,19 @@
-### Hey there 👋, I'm Nahian Niger Siddiqua. 
+### Hi there 👋, I'm Nahian Niger Siddiqua. 
 ### I have hands-on experience in various testing methodologies and actively working on developing my skills in this area.
 
-#### SQA Skills: Manual Testing / Automation testing / API testing / Software Quality
+#### Skills: Manual Testing / Automation testing / API testing / Performance Testing / Software Quality
+   - Manual Testing: Requirement Analysis, Test Planning,
+     Designing, Writing, and Reviewing Test
+     Cases, Execution and Evaluation, Creating
+     Test Reports, Root Cause Analysis & Bug
+     Reporting using test management tools
    - Performance Testing Tool: JMeter
-   - API Testing Tool: Postman
+   - API Testing Tool: Postman, Newman
    - Agile Methodology and Project Management Tool: Jira / Clickup
    - Concepts: SDLC, STLC, OOP
-
-#### Technical Skills ####
-  - Language: Java / PYTHON/ HTML / CSS  
-  - Database: MySQL / MongoDB
-  - Frameworks: Bootstrap / Django / Flask
+   - Languages: Java / PYTHON / C / C++ / HTML / CSS  
+   - Database: MySQL
+   - Web Automation Testing Tool: Selenium
 
 ### 🌱 I’m currently learning automation testing.
 ### 📫 How to reach me:
